@@ -1,6 +1,6 @@
 # VyBe Password Generator
 
-### Tested on IntelliJ-IDEA-Community
+### Tested with IntelliJ-IDEA-Community
 
 ### Presentation:
 
