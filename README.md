@@ -1,4 +1,4 @@
-# VyBe_Password_Generator
+# VyBe Password Generator
 
 ### Tested on IntelliJ-IDEA-Community
 
